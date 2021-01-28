@@ -34,5 +34,5 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] Por favor escaneie o QR-Code com seu aplicativo!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] escaneia ae!`);
 });
